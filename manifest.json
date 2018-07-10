@@ -1,0 +1,7 @@
+{
+  "name": "Ripple",
+  "short_name": "Ripple",
+  "description": "POC with Ripple",
+  "start_url": "/",
+  "display": "standalone"
+}
